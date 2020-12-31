@@ -1,8 +1,6 @@
 whoami
 
-I'm Noa: a dietitian that loves data or a Data Analyst interested in the Healthcare industry?
-
-<a href="https://ibb.co/0qftDhz"><img src="https://i.ibb.co/nrDCgzK/ME.png" alt="ME" border="0" width=30% height=30%></a>
+I'm Noa: a dietitian that loves data or a Data Analyst interested in the Healthcare industry? <a href="https://ibb.co/0qftDhz"><img src="https://i.ibb.co/nrDCgzK/ME.png" alt="ME" border="0" width=20% height=20%></a>
 
 ```python
 class npradaschnor:
