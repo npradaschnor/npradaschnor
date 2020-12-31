@@ -3,7 +3,7 @@ whoami
 I'm Noa: a dietitian that loves data or a Data Analyst interested in the Healthcare industry? 
 
 <p class="aligncenter">
-    <img src="https://i.ibb.co/nrDCgzK/ME.png"alt="ME" border="0" width=35% height=35%/>
+    <img src="https://i.ibb.co/nrDCgzK/ME.png"alt="ME" border="0" width=35% height=35% class="center"/>
 </p>
 
 
