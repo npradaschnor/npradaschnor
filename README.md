@@ -2,9 +2,9 @@
 
 I'm Noa: a dietitian that loves data or a Data Analyst interested in the Healthcare industry? 
 
-<p class="aligncenter" style="text-align:center">
-    <img src="https://i.ibb.co/nrDCgzK/ME.png"alt="ME" border="0" width=35% height=35% class="center"/>
-</p>
+<div style="text-align:center">
+    <img src="https://i.ibb.co/nrDCgzK/ME.png"alt="ME" border="0" width=35% height=35% align="center" class="center"/>
+</div>
 
 
 ```python
@@ -17,10 +17,12 @@ class npradaschnor:
         self.background = 'Dietitian'
         self.PhD = 'Food and Nutrition'
         self.masters = 'Food and Nutrition'
-        self.GMIT = 'Data Analytics Student'
+        self.now = 'Data Analytics Student'
+        self.university = 'Galway-Mayo Institute of Technology'
         self.linkedin = 'https://www.linkedin.com/in/npradaschnor/' #let's connect
         self.email = 'npradaschnor@gmail.com'
-        self.location = 'Ireland'
+        self.town = 'Drogheda'
+        self.country = 'Ireland'
         self.nationality = 'Portuguese and Brazilian'
         self.portuguese = 'Native'
         self.english = 'Advanced'
