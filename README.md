@@ -30,7 +30,7 @@ class npradaschnor:
         self.job = 'Looking for an internship or work placement'
         self.skills = {#some knowledge
           'soft': ['Multitasking', 'Problem Solving', 'Teamwork', 'Communication', 'Research','Adaptability', 'Resourcefulness', 'Eagerness to learn'],
-          'technical':['Python', 'Flask', 'HTML', 'CSS', 'JavaScript','Boostrap', 'SQL','MySQL', 'Pandas', 'Numpy', 'Matplotlib.pyplot', 'Seaborn', 'Sklearn', 'Jupyter notebook']
+          'technical':['Python', 'Flask', 'HTML', 'CSS', 'JavaScript','Boostrap', 'SQL','MySQL', 'SQL Server', 'Pandas', 'Numpy', 'Matplotlib.pyplot', 'Seaborn', 'Sklearn', 'Jupyter Notebook'. 'Visual Studio Code']
 
         }
 
@@ -61,7 +61,7 @@ function reachMe():
 reachMe(npradaschnor)
 ```
 
-<a href="https://www.linkedin.com/in/npraschnor/"><img src="https://i.ibb.co/gZxkh9P/Linkedin-Logo-2011-2019.png" alt="Linkedin-Logo-2011-2019" border="0" width=30%></a>
+Let's connect on Linkedin?  :fast_forward: <a href="https://www.linkedin.com/in/npraschnor/"><img src="https://i.ibb.co/gZxkh9P/Linkedin-Logo-2011-2019.png" alt="Linkedin-Logo-2011-2019" border="0" width=20%></a>
 
 ## Latest publications
 
