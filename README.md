@@ -61,7 +61,7 @@ function reachMe():
 reachMe(npradaschnor)
 ```
 
-<a href="https://www.linkedin.com/in/npraschnor/"><img src="https://i.ibb.co/gZxkh9P/Linkedin-Logo-2011-2019.png" alt="Linkedin-Logo-2011-2019" border="0"></a>
+<a href="https://www.linkedin.com/in/npraschnor/"><img src="https://i.ibb.co/gZxkh9P/Linkedin-Logo-2011-2019.png" alt="Linkedin-Logo-2011-2019" border="0" width=30%></a>
 
 ## Latest publications
 
