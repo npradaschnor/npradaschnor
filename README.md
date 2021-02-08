@@ -61,8 +61,9 @@ function reachMe():
 reachMe(npradaschnor)
 ```
 
-### Let's connect on Linkedin?  
-<a href="https://www.linkedin.com/in/npraschnor/"><img src="https://i.ibb.co/gZxkh9P/Linkedin-Logo-2011-2019.png" alt="Linkedin-Logo-2011-2019" border="0" width=10%></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/npradaschnor/)](https://www.linkedin.com/in/npradaschnor/)
+[![Gmail Badge](https://img.shields.io/badge/-npradaschnor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:npradaschnor@gmail.com)](mailto:npradaschnor@gmail.com)
+
 
 ## Latest publications
 
