@@ -47,19 +47,7 @@ if __name__ == '__main__':
 
 
 
-## 𝙷ey, feel free to reach me
-
-```python 
-
-function reachMe():
-    if want to ask a question:
-        reach Noa at npradaschnor@gmail.com
-    
-    else:
-        reach Noa anyway
-
-reachMe(npradaschnor)
-```
+## Hey, feel free to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/npradaschnor/)](https://www.linkedin.com/in/npradaschnor/)
 [![Gmail Badge](https://img.shields.io/badge/-npradaschnor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:npradaschnor@gmail.com)](mailto:npradaschnor@gmail.com)
