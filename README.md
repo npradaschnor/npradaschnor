@@ -1,6 +1,6 @@
 ## :star2: whoami?????????????????????
 
-I'm Noa: a Data Analyst & a Registered Dietitian
+I'm Noa: a Data Analyst & Registered Dietitian
 
 <div style="text-align:center">
     <img src="https://i.ibb.co/nrDCgzK/ME.png"alt="ME" border="0" width=35% height=35% align="center" class="center"/>
