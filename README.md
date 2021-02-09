@@ -1,6 +1,6 @@
 ## :star2: whoami?????????????????????
 
-I'm Noa: a dietitian that loves data or a Data Analyst interested in the Healthcare industry? 
+I'm Noa: a Data Analyst & a Registered Dietitian
 
 <div style="text-align:center">
     <img src="https://i.ibb.co/nrDCgzK/ME.png"alt="ME" border="0" width=35% height=35% align="center" class="center"/>
@@ -14,9 +14,9 @@ class npradaschnor:
         self.username = 'npradaschnor'
         self.name = 'Noa Prada Schnor'
         self.definition = 'Self motivated learner'
-        self.background = 'Dietitian'
+        self.background = 'Dietitian' #CORU Registered and MINDI
         self.PhD = 'Food and Nutrition'
-        self.masters = 'Food and Nutrition'
+        self.MSc = 'Food and Nutrition'
         self.now = 'Data Analytics Student'
         self.university = 'Galway-Mayo Institute of Technology'
         self.linkedin = 'https://www.linkedin.com/in/npradaschnor/' #let's connect
