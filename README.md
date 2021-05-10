@@ -5,9 +5,9 @@ I'm Noa: a Data Analyst & Registered Dietitian
 <div style="text-align:center">
     <img src="https://i.ibb.co/nrDCgzK/ME.png"alt="ME" border="0" width=35% height=35% align="center" class="center"/>
 </div>
-
-I am also a pythonista, mom of three! 
-![Me](https://giphy.com/gifs/kids-mom-work-from-home-he0W8JEmFZL43nkpHx)<img src="https://giphy.com/gifs/kids-mom-work-from-home-he0W8JEmFZL43nkpHx"/>
+<br><br>
+I am also a pythonista, and mom of three! My laptop is with me wherever I go! <br>
+<img src="https://media.giphy.com/media/he0W8JEmFZL43nkpHx/giphy.gif"/>
 
 
 ```python
@@ -46,15 +46,15 @@ if __name__ == '__main__':
 
 
 ```
+<br><br>
 
-
-![ReachMe](https://giphy.com/gifs/CzbiCJTYOzHTW)<img src="https://giphy.com/gifs/CzbiCJTYOzHTW"/>
+<img src="https://media.giphy.com/media/CzbiCJTYOzHTW/giphy.gif"/>
 ## Hey, feel free to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/npradaschnor/)](https://www.linkedin.com/in/npradaschnor/)
 [![Gmail Badge](https://img.shields.io/badge/-npradaschnor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:npradaschnor@gmail.com)](mailto:npradaschnor@gmail.com)
+<br><br>
 
-![TeamWork](https://giphy.com/gifs/ConnectedMovie-connected-movie-lTecNFkWIEz5kaGbvS)<img src="https://giphy.com/gifs/ConnectedMovie-connected-movie-lTecNFkWIEz5kaGbvS"/>
 ### If you saw any of my projects and wanna contribute, I will more than happy to accept your help!
 ### Looking forward to contribute to:
 * projects developed in python and SQL/NoSQL! 
