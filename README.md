@@ -7,7 +7,7 @@ I'm Noa: a Data Analyst & Registered Dietitian
 </div>
 
 I am also a pythonista, mom of three! 
-![Me](https://giphy.com/gifs/kids-mom-work-from-home-he0W8JEmFZL43nkpHx)
+![Me](https://giphy.com/gifs/kids-mom-work-from-home-he0W8JEmFZL43nkpHx)<img src="https://giphy.com/gifs/kids-mom-work-from-home-he0W8JEmFZL43nkpHx"/>
 
 
 ```python
@@ -48,13 +48,13 @@ if __name__ == '__main__':
 ```
 
 
-![ReachMe](https://giphy.com/gifs/CzbiCJTYOzHTW)
+![ReachMe](https://giphy.com/gifs/CzbiCJTYOzHTW)<img src="https://giphy.com/gifs/CzbiCJTYOzHTW"/>
 ## Hey, feel free to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/npradaschnor/)](https://www.linkedin.com/in/npradaschnor/)
 [![Gmail Badge](https://img.shields.io/badge/-npradaschnor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:npradaschnor@gmail.com)](mailto:npradaschnor@gmail.com)
 
-![TeamWork](https://giphy.com/gifs/ConnectedMovie-connected-movie-lTecNFkWIEz5kaGbvS)
+![TeamWork](https://giphy.com/gifs/ConnectedMovie-connected-movie-lTecNFkWIEz5kaGbvS)<img src="https://giphy.com/gifs/ConnectedMovie-connected-movie-lTecNFkWIEz5kaGbvS"/>
 ### If you saw any of my projects and wanna contribute, I will more than happy to accept your help!
 ### Looking forward to contribute to:
 * projects developed in python and SQL/NoSQL! 
