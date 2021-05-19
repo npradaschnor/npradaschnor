@@ -1,6 +1,6 @@
 ## :star2: whoami?????????????????????
 
-I'm Noa: a Data Analyst & Registered Dietitian
+Hi there! I'm Noa: a Data Analyst & Registered Dietitian.
 
 <div style="text-align:center">
     <img src="https://i.ibb.co/nrDCgzK/ME.png"alt="ME" border="0" width=35% height=35% align="center" class="center"/>
@@ -55,10 +55,11 @@ if __name__ == '__main__':
 [![Gmail Badge](https://img.shields.io/badge/-npradaschnor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:npradaschnor@gmail.com)](mailto:npradaschnor@gmail.com)
 <br><br>
 
-### If you saw any of my projects and wanna contribute, I will more than happy to accept your help!
+### If you see any of my projects and wanna contribute, I will be more than happy to accept your help!
+<br><br>
 ### Looking forward to contribute to:
 * projects developed in python and SQL/NoSQL! 
-* educational material to help beginners to discover the amazing world of python, SQL, data analysis!
+* educational material to help beginners to discover the amazing world of python, SQL, and data analysis!
 
 
 
