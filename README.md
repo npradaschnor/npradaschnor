@@ -1,6 +1,6 @@
 ## :star2: whoami?????????????????????
 
-Hi there! I'm Noa: a Data Analyst & Registered Dietitian.
+Hi there! I'm Noa: a Data Analyst & Registered Dietitian. Currently working as a Food Data Scientist.
 
 <div style="text-align:center">
     <img src="https://i.ibb.co/nrDCgzK/ME.png"alt="ME" border="0" width=35% height=35% align="center" class="center"/>
@@ -24,16 +24,13 @@ class npradaschnor:
         self.university = 'Galway-Mayo Institute of Technology'
         self.linkedin = 'https://www.linkedin.com/in/npradaschnor/' #let's connect
         self.email = 'npradaschnor@gmail.com'
-        self.town = 'Drogheda'
         self.country = 'Ireland'
         self.nationality = 'Portuguese and Brazilian'
         self.portuguese = 'Native'
         self.english = 'Advanced'
-        self.hobbies = 'Drawing and Study'
-        self.job = 'Looking for an internship or work placement'
+        self.job = 'Food Data Scientist'
         self.skills = {#some knowledge
-          'soft': ['Multitasking', 'Problem Solving', 'Teamwork', 'Communication', 'Research','Adaptability', 'Resourcefulness', 'Eagerness to learn'],
-          'technical':['Python', 'Flask', 'HTML', 'CSS', 'JavaScript','Boostrap', 'SQL','MySQL', 'SQL Server', 'Pandas', 'Numpy', 'Matplotlib.pyplot', 'Seaborn', 'Sklearn', 'Jupyter Notebook'. 'Visual Studio Code']
+          'technical':['Python','SQL','MySQL', 'SQL Server', 'Pandas', 'Numpy', 'Matplotlib.pyplot', 'Seaborn', 'Sklearn', 'Jupyter Notebook'. 'Visual Studio Code']
 
         }
 
