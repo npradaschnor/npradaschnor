@@ -6,7 +6,7 @@ Hi there! I'm Noa: a Data Analyst & Registered Dietitian. Currently working as a
     <img src="https://i.ibb.co/nrDCgzK/ME.png"alt="ME" border="0" width=35% height=35% align="center" class="center"/>
 </div>
 <br><br>
-I am also a pythonista, and mom of three! My laptop is with me wherever I go! <br>
+I am also a pythonista and mom of three! My laptop is with me wherever I go! <br>
 <img src="https://media.giphy.com/media/he0W8JEmFZL43nkpHx/giphy.gif"/>
 
 
@@ -20,7 +20,7 @@ class npradaschnor:
         self.background = 'Dietitian' #CORU Registered and MINDI
         self.PhD = 'Food and Nutrition'
         self.MSc = 'Food and Nutrition'
-        self.now = 'Data Analytics Student'
+        self.diploma = 'Data Analytics'
         self.university = 'Galway-Mayo Institute of Technology'
         self.linkedin = 'https://www.linkedin.com/in/npradaschnor/' #let's connect
         self.email = 'npradaschnor@gmail.com'
@@ -54,9 +54,9 @@ if __name__ == '__main__':
 
 ### If you see any of my projects and wanna contribute, I will be more than happy to accept your help!
 <br><br>
-### Looking forward to contribute to:
-* projects developed in python and SQL/NoSQL! 
-* educational material to help beginners to discover the amazing world of python, SQL, and data analysis!
+### Looking forward to contributing to:
+* projects developed in Python and SQL/NoSQL! 
+* educational material to help beginners discover the amazing world of Python, SQL, and data analysis!
 
 
 
