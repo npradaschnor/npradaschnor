@@ -1,5 +1,5 @@
 
-:star2:  Hello there! I'm Noa Prada Schnor! I currently harness my expertise as a Food Data Scientist and am advancing my skills by pursuing a Master's in Software Design with Machine Learning.
+:star2:  Hello there! I'm Noa Prada Schnor! I currently harness my expertise as a Food Data Scientist.
 
 <div style="text-align:center"> <img src="https://i.ibb.co/nrDCgzK/ME.png" alt="Noa Prada Schnor" border="0" width="35%" height="35%" align="center"/> </div>
 
@@ -14,7 +14,6 @@ class NoaPradaSchnor:
             'PhD': 'Food and Nutrition',
             'MSc': 'Food and Nutrition',
             'Diploma': 'Data Analytics',
-            'Current Study': "Master's in Software Design with Machine Learning",
             'Alma Mater': 'Galway-Mayo Institute of Technology'
         }
         self.contact_info = {
